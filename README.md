@@ -15,6 +15,8 @@ Dependencies required-<br />
 - TensorFlow<br />
 - OpenCV
 
+The dataset [link](https://drive.google.com/file/d/1kC60RGO3rcScVk7HY-s7tTMJeMbADfh1/view?usp=sharing)
+
 The dataset.py file creates the training dataset class to be fed into the Convolutional Neural Network. This class automatically determines the number of classes by the number of folders in 'in_dir' (number of folders=number of classes)
 
 The directory structure is assumed to be the following- (For example considering 3 classes)<br />
